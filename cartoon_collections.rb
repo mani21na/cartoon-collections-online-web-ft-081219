@@ -10,7 +10,8 @@ def long_planeteer_calls(array)
   array.any?{|word| word.length > 4}
 end
 
-def find_the_cheese(array)
+
+=begin
   cheese_types = ["cheddar", "gouda", "camembert"]
   cheese_in_food = ""
   if array.each do |food|
@@ -22,3 +23,4 @@ def find_the_cheese(array)
     nil 
   end
 end
+=end
