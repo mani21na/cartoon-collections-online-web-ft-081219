@@ -24,3 +24,5 @@ end
   end
 end
 =end
+
+cheese_types
