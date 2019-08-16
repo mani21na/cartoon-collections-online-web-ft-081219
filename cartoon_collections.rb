@@ -12,6 +12,7 @@ end
 
 
 =begin
+def find_the_cheese(array)
   cheese_types = ["cheddar", "gouda", "camembert"]
   cheese_in_food = ""
   if array.each do |food|
